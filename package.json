@@ -1,0 +1,26 @@
+{
+  "name": "nats",
+  "version": "1.0.0",
+  "description": "build your own nats messsge queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolo8304/coding-challenge-25-nats.git"
+  },
+  "keywords": [
+    "nats",
+    "mq"
+  ],
+  "author": "lolo8304",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lolo8304/coding-challenge-25-nats/issues"
+  },
+  "homepage": "https://github.com/lolo8304/coding-challenge-25-nats#readme",
+  "dependencies": {
+    "express-socket.io": "^1.0.3"
+  }
+}
